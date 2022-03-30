@@ -37,6 +37,7 @@ export function Underlay() {
             lineHeight: "30px",
             color: "black",
             letterSpacing: -2,
+            whiteSpace: "nowrap",
           }}
         >
           TREND SPORT WEAR
